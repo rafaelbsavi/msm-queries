@@ -13,6 +13,4 @@ class MoviesController < ApplicationController
     render({ :template => "movies_templates/details"})
   end
 
-
-
 end
